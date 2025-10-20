@@ -22,9 +22,9 @@ Contact
 
 Feel free to reach out:
 
-- **Email: kmarca363@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/kevinmarcadev](https://www.linkedin.com/in/kevinmarcadev)  
-- **GitHub:** [https://github.com/kevinmarcadev](https://github.com/kevinmarcadev)  
+- Email: kmarca363@gmail.com  
+- LinkedIn:** [https://www.linkedin.com/in/kevinmarcadev](https://www.linkedin.com/in/kevinmarcadev)  
+- GitHub:** [https://github.com/kevinmarcadev](https://github.com/kevinmarcadev)  
 
 
 Thank you for visiting my portfolio! I am continuously adding new projects to demonstrate my skills and growth as a software developer.
